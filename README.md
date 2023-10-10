@@ -4,15 +4,16 @@
 
 
 ## What I'm working on :
-- 🌱 I’m currently learning React, Django, Spring and Android Studio. 
+- 🌱 I’m currently learning React and Spring. 
 - 👯 I’m looking for an internship.
 - 💬 Soon building my own website.
 
-## :email: Contact me:
+## Contact me:
 
-[<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
-
+<p align="center">
+<a href="https://www.linkedin.com/in/filipe-pereira-martins/" target="blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" height="40" title="LinkedIn"></a>
+<a href="mailto:filipe.pereira.dev@gmail.com" target="blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" height="40" width="40" title="Gmail"></a>
+</p>
 <br />
 
 ## 🧰 Languages and Tools:
@@ -36,5 +37,4 @@
 </p>
 <br />
 
-[linkedin]: https://www.linkedin.com/in/filipe-pereira-martins/
-[mail]: mailto:filipe.pereira.dev@gmail.com
+
