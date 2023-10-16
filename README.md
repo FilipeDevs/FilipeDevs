@@ -6,7 +6,7 @@
 ## What I'm working on :
 - 🌱 I’m currently learning React and Spring. 
 - 👯 I’m looking for an internship.
-- 💬 Soon building my own website.
+- 💬 Doing a few projects. 
 
 ## Contact me:
 
