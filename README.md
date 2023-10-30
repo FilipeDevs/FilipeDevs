@@ -31,7 +31,7 @@
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" alt="Html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" alt="Laravel" height="40" style="vertical-align:top; margin:4px">
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
-
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" height="40" title="React" style="vertical-align:top; margin:4px">
 
   
 </p>
