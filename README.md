@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 3rd year student from HE2B-ESI.</p>
+<p align="left">I'm a 3rd year student from <a href="https://he2b.be/etudiant/">HE2B-ESI</a></p>
 
 ###
 
