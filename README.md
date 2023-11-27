@@ -1,40 +1,83 @@
-## 👋 Hi there I'm Filipe !</h1>
+<h1 align="left">Hey 👋 I'm Filipe</h1>
 
-### 🎓 3rd year IT student from [HE2B](https://he2b.be/etudiant/)</h3>
+###
+
+<p align="left">I'm a 3rd year student from HE2B-ESI.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Crafting bugs since 2002<br><br>📚 Currently immersed in the realms of Python, Spring, and DevOps<br><br>🎯 Aspiring to master new technologies and evolve beyond yesterday's self<br><br>Let's code and conquer! 🚀</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h2 align="left">Contact me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/filipe-pereira-martins/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:filipe.pereira.dev@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
 
 
-## What I'm working on :
-- 🌱 I’m currently learning React and Spring. 
-- 👯 I’m looking for an internship.
-- 💬 Doing a few projects. 
-
-## Contact me:
-
-<p align="center">
-<a href="https://www.linkedin.com/in/filipe-pereira-martins/" target="blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" height="40" title="LinkedIn"></a>
-<a href="mailto:filipe.pereira.dev@gmail.com" target="blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" height="40" width="40" title="Gmail"></a>
-</p>
-<br />
-
-## 🧰 Languages and Tools:
-<p align="center">
-  
-<p align="center">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" height="40" title="PHP" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" alt="Html" height="40" style="vertical-align:top; margin:4px">
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" alt="Laravel" height="40" style="vertical-align:top; margin:4px">
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" height="40" title="React" style="vertical-align:top; margin:4px">
-
-  
-</p>
-<br />
+###
 
 
