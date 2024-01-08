@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Crafting bugs since 2002<br><br>📚 Currently immersed in the realms of Python, Spring, and DevOps<br><br>🎯 Aspiring to master new technologies and evolve beyond yesterday's self<br><br>Let's code and conquer! 🚀</p>
+<p align="left">✨ Crafting bugs since 2020<br><br>📚 Currently immersed in the realms of Python, Spring, and DevOps<br><br>🎯 Aspiring to master new technologies and evolve beyond yesterday's self<br><br>Let's code and conquer! 🚀</p>
 
 ###
 
