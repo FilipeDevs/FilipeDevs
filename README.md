@@ -29,6 +29,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -76,6 +78,8 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="40" alt="jwt logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="40" alt="jwt logo"  />
   
 </div>
 
