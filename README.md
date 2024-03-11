@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 3rd year student from <a href="https://he2b.be/etudiant/">HE2B-ESI</a></p>
+<p align="left">I'm a 3rd year student from <a href="https://he2b.be/etudiant/">HE2B-ESI</a> and a Full Stack Developer Intern at <a href="https://www.etnic.be/">ETNIC</a></p>
 
 ###
 
