@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a final year Software Developer student at <a href="https://he2b.be/etudiant/">HE2B-ESI</a>
+<p align="left">Computer Science Graduate</a>
 
 ###
 
