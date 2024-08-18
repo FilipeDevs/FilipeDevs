@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Computer Science Graduate</a>
+<p align="left">Computer Science Graduate looking for new opportunities</a>
 
 ###
 
