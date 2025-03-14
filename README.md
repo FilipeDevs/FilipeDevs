@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Computer Science Graduate looking for new opportunities</a>
+<p align="left">Software Developer looking for new opportunities</a>
 
 ###
 
@@ -10,9 +10,15 @@
 
 ###
 
-<p align="left">✨ Crafting bugs since 2020<br><br>📚 Grinding Java and Spring Boot at the moment<br><br>🎯 Aspiring to master new technologies and evolve beyond yesterday's self<br><br>Let's code and conquer! 🚀</p>
-
-###
+<p align="left">
+✨ Computer Science Graduate (2024)
+<br>
+<br>
+🎮 Gamer at heart, anime enthusiast, and light novel reader.
+<br>
+<br>
+🚀 Always striving to master new technologies and level up my skills.
+</p>
 
 <h2 align="left">I code with</h2>
 
