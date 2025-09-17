@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software Developer looking for new opportunities</a>
+<p align="left">Master’s Student in Computer Science <a href="https://www.ulb.be/">@ULB</a></p>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Computer Science Graduate (2024)
+✨ Bachelor in Computer Science Graduate (2024)
 <br>
 <br>
 🎮 Gamer at heart, anime enthusiast, and light novel reader.
