@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Bachelor in Computer Science Graduate (2024)
+✨ Bachelor in Computer Science (2024)
 <br>
 <br>
 🎮 Gamer at heart, anime enthusiast, and light novel reader.
